@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and excelling in test automation. 
 - 🌱 I’m currently learning AI, Typescript and Playwright
 - 💞️ I’m looking to collaborate on web automation test projects. 
-- 📫 How to reach me gagexxl@gmail.com. 
+- 📫 How to reach me gageslockhart.com. 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I recently accomplished my Professional Association of Dive Instructors Open Water Certification. 
 
