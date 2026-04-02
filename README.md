@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web automation test projects. 
 - 📫 How to reach me gageslockhart@gmail.com. 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I recently accomplished my Professional Association of Dive Instructors Open Water Certification. 
+- ⚡ Fun fact: My daughter and I obtained our Professional Association of Dive Instructors Open Water Scuba Certification and will be going on our first dive next month. 
 
 <!---
 0gsl/0gsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
