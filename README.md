@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 0gsl
 - 👀 I’m interested in learning and excelling in test automation. 
-- 🌱 I’m currently learning AI, Typescript and Playwright
+- 🌱 I’m currently learning to leverage AI LLM's, Git, Github and plan on moving forward with Typescript and Playwright
 - 💞️ I’m looking to collaborate on web automation test projects. 
 - 📫 How to reach me gageslockhart@gmail.com. 
 - 😄 Pronouns: he/him
